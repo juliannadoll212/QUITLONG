@@ -12,7 +12,7 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-          I have proficiency in several programming languages, including [list languages, e.g., Python, Java, C++, JavaScript, etc.]. My experience spans writing clean, efficient code for a variety of applications, from web development to software solutions. I am comfortable working with both front-end and back-end technologies, and I am always eager to learn new languages and frameworks to expand my technical toolkit.
+          I have proficiency in several programming languages, including (list languages, e.g., Python, Java, C++, JavaScript, etc.). My experience spans writing clean, efficient code for a variety of applications, from web development to software solutions. I am comfortable working with both front-end and back-end technologies, and I am always eager to learn new languages and frameworks to expand my technical toolkit.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
